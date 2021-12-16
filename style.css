@@ -289,3 +289,8 @@ nav h1 {
     transform: translate(-750px, 450px);
     background: linear-gradient(#2D2D2D, coral);
 }
+
+.circle p {
+    font-size: 10px;
+    color: #FFF;
+}
