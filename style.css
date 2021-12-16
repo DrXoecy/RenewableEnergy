@@ -290,7 +290,10 @@ nav h1 {
     background: linear-gradient(#2D2D2D, coral);
 }
 
-.circle p {
+.circle1 p {
     font-size: 20px;
     color: #FFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
